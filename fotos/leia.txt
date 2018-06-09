@@ -1,0 +1,3 @@
+Aqui devem estar todos os arquivos digitalizados
+contendo informações sobre as medidas de cada
+peça do drone e do controle
