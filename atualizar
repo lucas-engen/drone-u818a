@@ -6,4 +6,10 @@
 # 
 # Autor: Lucas Vieira
 
-git pull
+f="$(git pull)"
+echo $f
+if [ "$?"="0" ]; then
+echo "A atualização foi finalizada corretamente."
+else
+echo "Erro ao atualizar a pasta do projeto"
+fi

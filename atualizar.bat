@@ -5,7 +5,10 @@
 :: Autor: Lucas Vieira
 
 @echo off
+path ;
 set pasta_git_bin=%programfiles%\Git\bin
+if exist %pasta_git_bin% (
 path %pasta_git_bin%;%path%
 bash ./atualizar
-pause
+)
+echo.
