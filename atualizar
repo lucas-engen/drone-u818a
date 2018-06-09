@@ -1,0 +1,9 @@
+#!/bin/bash
+
+# Este script faz parte do projeto final de diac - Drone U818A
+#
+# Função: atualizar a pasta do projeto, sem interferencia do usuário
+# 
+# Autor: Lucas Vieira
+
+git pull
