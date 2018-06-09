@@ -4,8 +4,9 @@
 ### Avisos
 - Não modifiquem os arquivos da pasta dos outros integrantes. Mexa apenas na sua.  
 - Não se esqueça de criar uma conta de usuário no github. Após criar, diga aos demais integrantes qual é seu nome de usuário.
+- Antes de realizar qualquer alteração no projeto, tenha certeza de que a pasta está atualizada (Veja o tutorial 3).
 
-## 1- Como baixar toda a pasta do projeto
+## Tutorial 1 - Como baixar toda a pasta do projeto
 ### Baixe e instale o Git: <https://git-scm.com/download/win>. Veja abaixo o passo a passo da instalação:   
 ![](https://i.imgur.com/Ov9I8T8.jpg)   
 ![Imgur](https://i.imgur.com/d1FQpRq.jpg)  
@@ -16,9 +17,7 @@
 ![Imgur](https://i.imgur.com/yQ2yBjQ.jpg)  
 ![Imgur](https://i.imgur.com/NW1sdxL.jpg)  
 ### - Finalize a instalação normalmente.
-### Clique no botão de copiar para o clipboard:  
-![Imgur](https://i.imgur.com/RQTgnad.jpg)  
-### Vá para a área de trabalho (ou outra pasta de sua escolha), clique com o botão direito em um espaço vazio e depois clique em **Git Bash Here**:  
+### Após instalar o git, vá para a área de trabalho (ou outra pasta de sua escolha) e clique com o botão direito em um espaço vazio. Assim que o menu aparecer, clique em **Git Bash Here**:  
 ![Imgur](https://i.imgur.com/HkD2j8d.jpg)    
 ### Uma tela preta abrirá. Após isso, digite o seguinte comando:  
 * **git clone https://github.com/lucas-engen/drone-u818a.git**  
@@ -28,8 +27,13 @@
 ### Pronto! Uma pasta com o nome do projeto será criada. Nela estarão todos os arquivos:  
 ![Imgur](https://i.imgur.com/fGFPBbD.jpg)  
 
-## 2 - Como enviar as suas alterações
+## Tutorial 2 - Como enviar as suas alterações
 ### Vá ao site aonde se encontra o projeto, e clique no botão **upload files**:  
 ![Imgur](https://i.imgur.com/lJdwfos.jpg)  
 ### Clique no botão indicado pela seta azul e escolha os arquivos no seu computador que foram alterados. Após isso, clique no botão indicado pela seta vermelha. Se quiser, coloque uma mensagem qualquer sobre quais alterações você realizou:  
-![Imgur](https://i.imgur.com/w8xW0qO.jpg)
+![Imgur](https://i.imgur.com/w8xW0qO.jpg)  
+## Tutorial 3 - Como atualizar a pasta do projeto
+### É bem simples. Basta clicar duas vezes no arquivo atualizar.bat, conforme a seguir:
+![Imgur](https://i.imgur.com/CWZrUzT.jpg)
+### Após isso, aparecerá uma tela preta indicando se a atualização foi feita corretamente ou não.
+### Esse procedimento é necessário para garantir que todos os integrantes do grupo estejam com os arquivos sincronizados.

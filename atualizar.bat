@@ -12,3 +12,4 @@ path %pasta_git_bin%;%path%
 bash ./atualizar
 )
 echo.
+pause
