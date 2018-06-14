@@ -19,7 +19,7 @@ copy /y pedro\*.CATPart %nome_pasta_assembly%\>nul
 copy /y samara\*.CATDrawing %nome_pasta_assembly%\>nul
 copy /y lucas\*.CATDrawing %nome_pasta_assembly%\>nul
 copy /y jose\*.CATDrawing %nome_pasta_assembly%\>nul
-copy /y pedro\*.CATPart %nome_pasta_assembly%\>nul
+copy /y pedro\*.CATDrawing %nome_pasta_assembly%\>nul
 
 echo.
 if %ERRORLEVEL% equ 0 (
