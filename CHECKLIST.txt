@@ -1,0 +1,6 @@
+1) Verificar medidas no sketcher
+2) Verificar escalas na legenda da folha
+2.1) Apagar escalas da legenda de cada peça (se houverem)
+3) Verificar preenchimento da legenda
+4) Verificar se os cortes estão representados corretamente
+5) Verificar se as linhas do corte estão no angulo correto (Drafting->Cortes)
