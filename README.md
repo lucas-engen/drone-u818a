@@ -28,8 +28,8 @@
 ![Imgur](https://i.imgur.com/fGFPBbD.jpg)  
 
 ## Tutorial 2 - Como enviar as suas alterações
-### Vá ao site aonde se encontra o projeto, e clique no botão **upload files**:  
-![Imgur](https://i.imgur.com/lJdwfos.jpg)  
+### Vá ao site aonde se encontra o projeto, entre na sua pasta e clique no botão **upload files**:  
+![Imgur](https://i.imgur.com/Eq5tVoY.jpg?1)
 ### Clique no botão indicado pela seta azul e escolha os arquivos no seu computador que foram alterados. Após isso, clique no botão indicado pela seta vermelha. Se quiser, coloque uma mensagem qualquer sobre quais alterações você realizou:  
 ![Imgur](https://i.imgur.com/w8xW0qO.jpg)  
 ## Tutorial 3 - Como atualizar a pasta do projeto
