@@ -1,6 +1,8 @@
-1) Verificar medidas no sketcher
+﻿1) Verificar medidas no sketcher
 2) Verificar escalas na legenda da folha
 2.1) Apagar escalas da legenda de cada peça (se houverem)
-3) Verificar preenchimento da legenda
+3) Verificar preenchimento da legenda (número da peça, FGA-UnB, matrícula, Nome, turma)
 4) Verificar se os cortes estão representados corretamente
 5) Verificar se as linhas do corte estão no angulo correto (Drafting->Cortes)
+6) Verificar se o drafting em pdf está nomeado corretamente
+7) Verificar tamanho total do projeto (MAX 100MB)
